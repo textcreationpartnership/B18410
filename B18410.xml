@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The tyrannical usurpation of the independent cloak over the Episcopal govvn. by A.C. &amp; P.C.</title>
+            <author>A. C.</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18410</idno><idno type="EEBO-CITATION">99888193</idno>
+  <idno type="VID">201053</idno>
+  <idno type="EEBO-PROQUEST">2248539321</idno>
+  
+            <idno type="STC">Wing C10</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.121.g.9[8]</idno>
+            <idno type="STC">ESTC R229155</idno>
+            <idno type="PROQUEST">ocm99888193</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888193e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18410)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 201053)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A8:1[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The tyrannical usurpation of the independent cloak over the Episcopal govvn. by A.C. &amp; P.C.</title>
+                  <author>A. C.</author>
+                  <author>P. C.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Gideon Andrews,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Text in two columns ; verses in Roman, chorus in italics.</note>
+                  <note>First line: "Come buy my new ballad."</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Ballads, English --  17th century.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685 --  Poetry --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:201053:1"/>
+            <head>The Tyrannical Usurpation OF THE INDEPENDENT CLOAK OVER THE EPISCOPAL GOWN.</head>
+            <byline>By <hi>A.C.</hi> &amp; <hi>P.C.</hi>
+            </byline>
+            <lg>
+               <l>COme buy my new Ballad,</l>
+               <l>I hav't in my Wallet,</l>
+               <l>But it will not I fear me please every Pallar;</l>
+               <l>Then mark what ensueth,</l>
+               <l>I swear by my youth</l>
+               <l>That every Line in my Ballad is truth,</l>
+               <l>A Ballad of wit, and a Ballad of worth,</l>
+               <l>It is newly Printed, and newly come forth;</l>
+               <l>
+                  <hi>'Twas made of a Cloak that fell out with a Gown,</hi>
+               </l>
+               <l>
+                  <hi>That crampt all the Kingdom, and crippl'd the Crown.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Ile tell you in brief</l>
+               <l>A story of grief,</l>
+               <l>That hapned when Cloak was Commander in Chief:</l>
+               <l>It tore Common Prayers,</l>
+               <l>Imprison'd Lord Mayors,</l>
+               <l>In one day it voted down Prelates and Playes,</l>
+               <l>It made people perjur'd in point of Obedience,</l>
+               <l>The Covenant outed the Oath of Allegiance.</l>
+               <l>
+                  <hi>Then let us endeavour to pull the Cloak down,</hi>
+               </l>
+               <l>
+                  <hi>That crampt all the Kingdom, and crippl'd the Crown.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>It was a Black Cloak,</l>
+               <l>In good time bee't spoke,</l>
+               <l>That kill'd many thousands, but never struck stroak,</l>
+               <l>With Hatchet and Rope,</l>
+               <l>The Forlorn Hope</l>
+               <l>Did joyn with the Devil to pull down the Pope.</l>
+               <l>It set all the Sects in the City to work,</l>
+               <l>And rather then fail, 'twould have brought in the Turk.</l>
+               <l>
+                  <hi>Then let us endeavour to pull the Cloak down,</hi>
+               </l>
+               <l>
+                  <hi>That crampt all the Kingdom, and crippl'd the Crown.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>It seiz'd on the Tower-Guns,</l>
+               <l>Those fierce Demigorgons,</l>
+               <l>It brought in Bagpipes, and pull'd down the Organs.</l>
+               <l>The Pulpits did smoak,</l>
+               <l>The Churches did Choak:</l>
+               <l>And all our Religion was turned to Cloak:</l>
+               <l>It brought in Lay-Elders could not write nor read;</l>
+               <l>If set Publick Faith up, and pull'd down the Creed.</l>
+               <l>
+                  <hi>Then let us endeavour to pull the Cloak down,</hi>
+               </l>
+               <l>
+                  <hi>That crampt all the Kingdom, and crippl'd the Crown.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The pious Impostor</l>
+               <l>Such Fury did foster,</l>
+               <l>It left us no Peny, nor no <hi>Pater noster.</hi>
+               </l>
+               <l>It threw to the ground</l>
+               <l>Ten Commandments down,</l>
+               <l>And set up twice twenty times ten of his own.</l>
+               <l>He Routed the King, and the Kings servants Menial,</l>
+               <l>And set up a power of Traytors Triennial.</l>
+               <l>
+                  <hi>Then let us endeavour to throw the Cloak down,</hi>
+               </l>
+               <l>
+                  <hi>That cox'd all the Kingdom, and cozen'd the Crown.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>To blind peoples eyes,</l>
+               <l>This Cloak was so wise,</l>
+               <l>It took down Ship-money, and set up Excise.</l>
+               <l>Men brought in their Plate,</l>
+               <l>For Reasons of State,</l>
+               <l>And gave to <hi>Tom</hi> Trumpeter and his Mate:</l>
+               <l>In Pamphlets it writ many specious Epistles,</l>
+               <l>To cozen poor Wenches of Bodkins and Whistles.</l>
+               <l>
+                  <hi>Then let us endeavour to pull this Cloak down,</hi>
+               </l>
+               <l>
+                  <hi>That cheated the Kingdom, and crippl'd the Crown.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>In Pulpits it moved,</l>
+               <l>And was much approved,</l>
+               <l>For crying, Fight out the Lords Battles Beloved.</l>
+               <l>It Bobtail'd the Crown,</l>
+               <l>Put Prelacy down.</l>
+               <l>It trode on the Miter to reach at the Crown;</l>
+               <l>And into the Field it an Army did bring,</l>
+               <l>To aime at the Council, and shoot at the King.</l>
+               <l>
+                  <hi>Then let us endeavour to pull this Cloak down,</hi>
+               </l>
+               <l>
+                  <hi>That cheated the Kingdom, and crippl'd the Crown.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>It raised up States;</l>
+               <l>Whose politick Pates</l>
+               <l>Do now keep their Quarters on our City Gates.</l>
+               <l>To Father and Mother,</l>
+               <l>To Sister and Brother,</l>
+               <l>It gave out Commission to kill one another.</l>
+               <l>They took up mens Horses at very low Rates,</l>
+               <l>And plundred our Goods to secure our Estates.</l>
+               <l>
+                  <hi>Then let us endeavour to pull the Cloak down,</hi>
+               </l>
+               <l>
+                  <hi>That crampt all the Kingdom, and catcht at the Crown.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>This Cloak did proceed</l>
+               <l>To a damnable Deed,</l>
+               <l>And made the best Mirrour of Majesty bleed.</l>
+               <l>Though he did not doo't,</l>
+               <l>He set it on foot,</l>
+               <l>In Raising and Calling his Journey men to't.</l>
+               <l>For never had come such a Bloudy Disaster,</l>
+               <l>If Cloak had not first drawn a Sword on his Master.</l>
+               <l>
+                  <hi>Then let us endeavour to pull the Cloak down,</hi>
+               </l>
+               <l>
+                  <hi>That crampt all the Kingdom, and catcht as the Crown.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Though some of them went home</l>
+               <l>By sorrowful sentence,</l>
+               <l>This Lofty Long Cloak is not mov'd to Repentance:</l>
+               <l>But he and his men</l>
+               <l>Twenty thousand times ten</l>
+               <l>Are Plotting to do their Tricks over again.</l>
+               <l>But let this proud Cloak to Authority stoop,</l>
+               <l>Or <hi>Dun</hi> will provide him a Button and Loop.</l>
+               <l>
+                  <hi>For we will endeavour to pull this Cloak down,</hi>
+               </l>
+               <l>
+                  <hi>That lately did sever the Head from the Crown.</hi>
+               </l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Gideon Andrews.</hi> 1663.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
